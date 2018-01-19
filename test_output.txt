@@ -1,0 +1,111 @@
+[
+    {
+        "bucket": "A,2,50_day",
+        "purchases": [
+            [
+                "1,2,A,NA,2,50_day,0000,line_1"
+            ]
+        ]
+    },
+    {
+        "bucket": "*,*,*",
+        "purchases": [
+            [
+                "11,2,C,NA,2,50_day,0000,line_2"
+            ]
+        ]
+    },
+    {
+        "bucket": "A,2,60_day",
+        "purchases": [
+            [
+                "2,2,A,NA,2,60_day,0000,line_3"
+            ]
+        ]
+    },
+    {
+        "bucket": "A,5,50_day",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "A,2,*",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "A,*,50_day",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "B,2,50_day",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "B,2,60_day",
+        "purchases": [
+            [
+                "8,2,B,NA,2,60_day,0000,line_8"
+            ]
+        ]
+    },
+    {
+        "bucket": "B,5,50_day",
+        "purchases": [
+            [
+                "9,2,B,NA,5,50_day,0000,line_9"
+            ]
+        ]
+    },
+    {
+        "bucket": "B,2,*",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "B,*,150_day",
+        "purchases": [
+            [
+                "7,2,B,NA,5,150_day,0000,line_11",
+                "10,2,B,NA,2,150_day,0000,line_11"
+            ]
+        ]
+    },
+    {
+        "bucket": "A,*,*",
+        "purchases": [
+            [
+                "3,2,A,NA,2,70_day,0000,line_12",
+                "6,2,A,NA,5,10_day,0000,line_12"
+            ]
+        ]
+    },
+    {
+        "bucket": "*,5,150_day",
+        "purchases": [
+            []
+        ]
+    },
+    {
+        "bucket": "A,*,150_day",
+        "purchases": [
+            [
+                "4,2,A,NA,5,150_day,0000,line_14",
+                "5,2,A,NA,5,150_day,0000,line_14"
+            ]
+        ]
+    },
+    {
+        "bucket": "A,5,*",
+        "purchases": [
+            []
+        ]
+    }
+]
